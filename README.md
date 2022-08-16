@@ -14,4 +14,4 @@ We will have to preprocess the dataset to ensure the machine learning model we c
 After our data is in good shape, we will do some exploratory data analysis to build our intuitions.
 Finally, we will build a machine learning model that can predict if an individual's application for a credit card will be accepted.
 
-**3.Predict Blood Donation: TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. Programming Language is python, best model based on TPOT is logistic regression. 
+**3.Predict Blood Donation:** TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. Programming Language is python, best model based on TPOT is logistic regression. 
